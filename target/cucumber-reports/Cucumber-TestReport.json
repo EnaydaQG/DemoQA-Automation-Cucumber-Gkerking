@@ -1,0 +1,365 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-09-03T03:39:57.649Z",
+        "line": 2,
+        "name": "Element Page",
+        "description": "",
+        "id": "cards-of-demoqa;element-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9210063000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "User was on the Home page",
+            "match": {
+              "location": "StepDefinitions.Cards.homePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 112059100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User click Elements",
+            "match": {
+              "location": "StepDefinitions.Cards.elements()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8154110200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User will on the Elements page",
+            "match": {
+              "location": "StepDefinitions.Cards.elementSection()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-03T03:40:15.157Z",
+        "line": 7,
+        "name": "Forms Page",
+        "description": "",
+        "id": "cards-of-demoqa;forms-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7586748500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User was on the Home page",
+            "match": {
+              "location": "StepDefinitions.Cards.homePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 101091100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User click Forms",
+            "match": {
+              "location": "StepDefinitions.Cards.forms()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5695074200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User will on the Forms page",
+            "match": {
+              "location": "StepDefinitions.Cards.formsSection()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-03T03:40:28.552Z",
+        "line": 12,
+        "name": "Alerts, Frame \u0026 Windows Page",
+        "description": "",
+        "id": "cards-of-demoqa;alerts--frame-\u0026-windows-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7949135400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User was on the Home page",
+            "match": {
+              "location": "StepDefinitions.Cards.homePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 108988100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User click Alerts, Frame \u0026 Windows",
+            "match": {
+              "location": "StepDefinitions.Cards.alertsFrameWindows()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4339822200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User will on the Alerts, Frame \u0026 Windows page",
+            "match": {
+              "location": "StepDefinitions.Cards.alertsFrameWindowsSection()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-03T03:40:40.986Z",
+        "line": 17,
+        "name": "Widgets Page",
+        "description": "",
+        "id": "cards-of-demoqa;widgets-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7682471300,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User was on the Home page",
+            "match": {
+              "location": "StepDefinitions.Cards.homePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 112065500,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User click Widgets",
+            "match": {
+              "location": "StepDefinitions.Cards.Widgets()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5130710800,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User will on the Widgets page",
+            "match": {
+              "location": "StepDefinitions.Cards.widgetsSection()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-03T03:40:53.923Z",
+        "line": 22,
+        "name": "Interactions Page",
+        "description": "",
+        "id": "cards-of-demoqa;interactions-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7322737900,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "User was on the Home page",
+            "match": {
+              "location": "StepDefinitions.Cards.homePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 110078300,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "User click Interactions",
+            "match": {
+              "location": "StepDefinitions.Cards.interactions()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4207034000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "User will on the Interactions page",
+            "match": {
+              "location": "StepDefinitions.Cards.interactionSection()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-03T03:41:05.574Z",
+        "line": 27,
+        "name": "Book Store Application Page",
+        "description": "",
+        "id": "cards-of-demoqa;book-store-application-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8050629400,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User was on the Home page",
+            "match": {
+              "location": "StepDefinitions.Cards.homePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 110075600,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User click Book Store Application",
+            "match": {
+              "location": "StepDefinitions.Cards.bookStoreApplication()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4226155600,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "User will on the Book Store Application page",
+            "match": {
+              "location": "StepDefinitions.Cards.bookStoreApplicationSection()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Cards of demoqa",
+    "description": "",
+    "id": "cards-of-demoqa",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/Resources/demoqa-cards.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-09-03T03:41:17.972Z",
+        "line": 3,
+        "name": "Text Box",
+        "description": "",
+        "id": "demoqa---elements-page;text-box",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10754459400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User was in Text Box",
+            "match": {
+              "location": "StepDefinitions.Elements.text_box()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3384998600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User set personal information",
+            "match": {
+              "location": "StepDefinitions.Elements.user_set_personal_information()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3073351000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click Submit button",
+            "match": {
+              "location": "StepDefinitions.Elements.clickSubmit()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3782294400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User will see personal information",
+            "match": {
+              "location": "StepDefinitions.Elements.user_will_see_personal_information()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "DemoQA - Elements page",
+    "description": "",
+    "id": "demoqa---elements-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/Resources/demoqa-elements.feature",
+    "tags": []
+  }
+]
